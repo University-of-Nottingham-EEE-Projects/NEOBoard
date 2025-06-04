@@ -5,8 +5,6 @@ This GitHub project contains all of the files needed to build your own 'NEOBoard
 Feel free to also contact us by emailing nathaniel.dacombe@nottingham.ac.uk with any queries, questions or feedback
 
 Now for some notes about the example code...
-
-the 'Picotar' project utilises the Mozzi audio library by Tim Barrass
 - all note tones and songs are taken from:	https://github.com/robsoncouto/arduino-songs/tree/master by Robson Couto
 - comments are added throughout the code for your understanding to explain key processes or functions - if anything is unclear, feel free to ask, or search for the functions online
 
